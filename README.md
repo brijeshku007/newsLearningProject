@@ -14,3 +14,16 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
+## this is the application for the news project
+ ## how to run the application
+ 
+ ### first you need to run the npm install
+ 
+ ## add .env file in the root directory
+
+ add the key VITE_NEWS_API_KEY=your_api_key(new api key)
+ then run the npm run dev
